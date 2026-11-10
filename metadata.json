@@ -1,0 +1,6 @@
+{
+  "name": "SG Carpark Tracker",
+  "description": "Real-time Singapore carpark lot availability tracker for HDB, URA, and commercial carparks with parking rates, gantry clearance, and smart lot finder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
